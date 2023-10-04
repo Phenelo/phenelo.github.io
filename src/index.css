@@ -1,0 +1,9 @@
+@font-face {
+  font-family: Rambla;
+  src: url("/public/fonts/Rambla-Regular.ttf");
+}
+
+body {
+  margin: 0;
+  font-family: Rambla;
+}

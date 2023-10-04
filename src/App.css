@@ -1,0 +1,11 @@
+.home {
+  display: flex;
+  height: 100vh;
+  width: 100vw;
+  background-color: #3e4b2e;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 32px;
+}
