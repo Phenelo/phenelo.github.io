@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/static/css/main.830d2065.css",
-    "main.js": "/static/js/main.b518ca93.js",
+    "main.js": "/static/js/main.700f4e8f.js",
     "static/media/Rambla-Regular.ttf": "/static/media/Rambla-Regular.f68cd09f9c1ef8062038.ttf",
     "index.html": "/index.html",
     "main.830d2065.css.map": "/static/css/main.830d2065.css.map",
-    "main.b518ca93.js.map": "/static/js/main.b518ca93.js.map"
+    "main.700f4e8f.js.map": "/static/js/main.700f4e8f.js.map"
   },
   "entrypoints": [
     "static/css/main.830d2065.css",
-    "static/js/main.b518ca93.js"
+    "static/js/main.700f4e8f.js"
   ]
 }
